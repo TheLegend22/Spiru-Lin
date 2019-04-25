@@ -1,0 +1,230 @@
+/* Add From Mahmoud */
+
+@media (min-width: 734px) and (max-width: 980px) {
+    .wrapper {
+        min-width: 100%
+    }
+    .wrapper-inner {
+        min-width: 100%;
+    }
+    .container {
+        width: 100%;
+        margin: 0 auto;    
+    }
+
+    .check {
+        text-align: center;
+    }
+
+    .Product-img {
+        width: 215px;
+    }
+
+    .health-hair .title {font-size: 18px;}
+    .health-hair .subtitle {font-size: 14px;margin-bottom: 30px;}
+
+    .recomended .text {
+        color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+    .sec-steps .sep {display: none;}
+    .sec-steps .separator {display: none;}
+
+    .share {text-align: -webkit-center;}
+    .share .spec   {display: block;width: 100%;background-position: 60% 50%}
+    .share .ttl    {display: block;width: 100%;}
+    .share .new-prc {display: block;width: 100%;background: ;background-position: 50% 50%}
+    .share .order-btn {display: block;}
+    .share .old-price {display: block;width: 100%;text-align: center;}
+    
+    .dad > .benefit { width: 200px; margin: 1.4%}
+
+    .logo{display: none;}
+
+    .top-girl{
+        display: block;
+        position: absolute;
+        max-height: 340px;
+        max-width: 290px;
+        top: 28px;
+        left: 0;
+        z-index: 10;
+    }
+
+    .doctor p,.doctor .name {
+        font-size: 13px;
+    }
+
+    .health-item {
+        width: 32%;
+    }
+
+    .benefits .dad {width: 100%;display: flex;justify-content: space-around;}
+    .men {
+        padding-left: 200px;
+    }
+
+    .men .text {
+        color: #ddd;
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+
+	.effect-text {margin-right: 200px;}
+    .effect-text div {
+        font-size: 20px;
+    }
+
+    .form-right {
+        color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+}
+
+
+
+@media screen and (max-width: 734px) {
+    .wrapper {
+        min-width: 100%
+    }
+    .wrapper-inner {
+        min-width: 100%;
+    }
+    .container {
+        width: 100%;
+        margin: 0 auto;    
+    }
+
+    .check {
+        text-align: center;
+    }
+    .block2 {
+        text-align: center;
+    }
+    .Product-img {
+        position: static;
+        width: 215px;
+    }
+    .sec-steps .sep {display: none;}
+    .sec-steps .separator {display: none;}
+    .steps {
+        padding: 50px;
+    }
+    .top-step {
+        margin: 10px 25px;
+    }
+    
+    .benefits > .benefit {display: none;}
+    
+    .benefits {width: 100%;}
+    
+    .dad {
+        text-align: -webkit-center;
+    }
+    .dad > .benefit {display: block;width: 200px;text-align: center;}
+
+    .logo{display: none;}
+    .steps .title {
+        padding-left: 0;
+    }
+    .top-girl{
+        display: none;
+    }
+    
+
+    .share {text-align: -webkit-center;}
+    .share .spec   {display: block;width: 100%;background-position: 60% 50%}
+    .share .ttl    {display: block;width: 100%;}
+    .share .new-prc {display: block;width: 100%;background-position:50% 50%}
+    .share .order-btn {display: block;}
+    .share .old-price {display: block;width: 100%;text-align: center;}
+
+	.innovation {
+		padding: 0;
+    }
+    .innovation .text {
+        padding: 10px;
+    	color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+
+    .block8 {display: none;}
+    .health-item {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .health-hair .title {font-size: 18px;}
+    .health-hair .subtitle {font-size: 14px;margin-bottom: 30px;}
+        
+    .recomended {padding:0;}
+    .recomended .text {
+        color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+
+    .scissors {
+        position: absolute;
+        top: -133px;
+        left: -61px;
+        width: 50%;
+    }
+    .effect {padding: 0;}
+    .effect-text {
+    	margin-right: 0;
+		background-color: rgba(0, 0, 0, 0.29);
+		border: 1px solid #0000004d;
+		padding: 8px;
+		border-radius: 13px;
+	}
+
+    .effect-text div {
+        font-size: 16px;
+        color: #ddd;
+    }
+    
+    .effect-text p {color: #ddd}
+    .men {
+        padding: 0;
+    }
+    .men .title {padding-top: 2px;}
+    .men .text {
+        color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;
+    }
+    .old-price {width: 100%;float: none;}
+    .main-form .form {
+        text-align: -webkit-center;
+        width: 100%;
+    }   
+
+    .form-right {
+        display: block;
+        margin-right: 0;
+        text-align: center;
+        width: 100%;color: #ddd;
+        background-color: rgba(0, 0, 0, 0.29);
+        border: 1px solid #0000004d;
+        padding: 8px;
+        border-radius: 13px;}
+    .form input {width: 100%;}
+    .vitamin div { text-align: center; }    
+    .recomended .text {width: 100%}
+    .check .left {margin-right: 0; margin-left: 0;}
+}
