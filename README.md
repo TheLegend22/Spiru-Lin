@@ -1,4 +1,4 @@
-An 4-section landing page created for the purpose of selling the Natural product.
+An 12-section landing page created for the purpose of selling the Natural product.
 ---
 [Demo](https://laravelspa.github.io/Spiru-Lin-Landing-Page)
 ---
