@@ -1,7 +1,7 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=healthyh_spirulina";
-$user = "healthyh_mo7meds";
-$pass = "01205435978";
+$dsn = "";
+$user = "";
+$pass = "";
 try {
     
     $con = new PDO($dsn, $user, $pass);
