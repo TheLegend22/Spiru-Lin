@@ -3,7 +3,7 @@ An 12-section landing page created for the purpose of selling the Natural produc
 [Demo](https://laravelspa.github.io/Spiru-Lin-Landing-Page)
 ---
 
-[![Spiru Lin Landing Page](https://laravelspa.site/img/portfolio/spiru-lin-landing-page/full-page.jpeg "Spiru Lin Landing Page")](https://laravelspa.github.io/Spiru-Lin-Landing-Page)
+[![Spiru Lin Landing Page](https://laravelspa.github.io/blog/img/portfolio/spiru-lin-landing-page/full-page.jpeg "Spiru Lin Landing Page")](https://laravelspa.github.io/Spiru-Lin-Landing-Page)
 
 ## Languages
 - **HTML** (Markup Language)
